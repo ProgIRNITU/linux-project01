@@ -1,6 +1,7 @@
 #                                             "HELLO IRNITU"
 ## OS Linux Ubuntu - First LAB
 :smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley:
+
 \```java
     public static String dlinnoeSlovo(String vvod) {
         String[] words = vvod.split("\\s+");
